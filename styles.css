@@ -1,5 +1,5 @@
 body {
-    font-family: Asans; sans-serif;
+    font-family: asterisks; sans-serif;
     background: lightpink;
     line-height: 1.6;
     margin: 0;
@@ -14,4 +14,7 @@ h1 {
     color: #2c3e50;
     border-bottom: 2px solid #eee;
     padding-bottom: 10px;
+}
+imag{
+    width:absolute20px;
 }
